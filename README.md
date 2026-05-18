@@ -1,1 +1,1 @@
-# ntelligent-Geospatial-Sampling-Quality-Control-Powered-by-XGBlassifier
+# Intelligent-Geospatial-Sampling-Quality-Control-Powered-by-XGBlassifier
