@@ -1,0 +1,9 @@
+streamlit
+geopandas
+pandas
+numpy
+shapely
+matplotlib
+pyproj
+scikit-learn==1.7.1
+xgboost>=2.0.0
